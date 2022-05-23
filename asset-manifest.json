@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CLAPP/static/css/main.176e6723.css",
+    "main.js": "/CLAPP/static/js/main.52717bd9.js",
+    "static/js/787.8b357100.chunk.js": "/CLAPP/static/js/787.8b357100.chunk.js",
+    "static/media/background.jpg": "/CLAPP/static/media/background.95c42366e930a3185ba0.jpg",
+    "index.html": "/CLAPP/index.html",
+    "main.176e6723.css.map": "/CLAPP/static/css/main.176e6723.css.map",
+    "main.52717bd9.js.map": "/CLAPP/static/js/main.52717bd9.js.map",
+    "787.8b357100.chunk.js.map": "/CLAPP/static/js/787.8b357100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176e6723.css",
+    "static/js/main.52717bd9.js"
+  ]
+}
